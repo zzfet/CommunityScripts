@@ -2,8 +2,6 @@
 #       General information         #
 # -----------------------------------------------------------------
 # Available elements for renaming:
-#   $oshash 
-#   $checksum 
 #   $date 
 #   $date_format
 #   $year 
